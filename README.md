@@ -76,7 +76,9 @@ Projeto de extensão curricular da disciplina de Programação Orientada a Objet
 eletrônico e combate à desinformação em ano eleitoral", do professor
 Anildo Mattos.
 
+
 ## Aviso
 
 Este software é apenas educativo. Não tem ligação com a urna eletrônica oficial
 nem com a Justiça Eleitoral, e todos os candidatos e partidos são fictícios.
+
