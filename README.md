@@ -62,3 +62,21 @@ Conceitos aplicados: **abstração** (`Candidato`, `VotoRepository`), **herança
 As imagens em `src/main/resources/images` são ilustrações genéricas. Para trocar, mantenha os nomes
 (`cand_<número>.png`, `vice_<número>.png`), de preferência 260×320 px, e use apenas imagens sem pessoas reais
 (ilustrações, avatares ou imagens geradas, sempre fictícias).
+
+## Equipe
+
+- Adriano Neves
+- Thiago Soares
+- Erica Mendonca
+
+## Contexto acadêmico
+
+Projeto de extensão curricular da disciplina de Programação Orientada a Objetos
+(UNIJORGE, 2026.2), a partir da proposta "Urna Cidadã: simulação educativa do voto
+eletrônico e combate à desinformação em ano eleitoral", do professor
+Anildo Mattos.
+
+## Aviso
+
+Este software é apenas educativo. Não tem ligação com a urna eletrônica oficial
+nem com a Justiça Eleitoral, e todos os candidatos e partidos são fictícios.
