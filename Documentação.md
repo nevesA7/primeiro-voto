@@ -335,4 +335,4 @@ mvn test
 - Adriano Neves
 - Erica Mendonca
 
-Projeto desenvolvido com base na proposta do professor Nirton Afonso de Oliveira Filho (UNIJORGE).
+Projeto desenvolvido com base na proposta do professor Anildo Mattos (UNIJORGE).
